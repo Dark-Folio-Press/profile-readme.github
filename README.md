@@ -15,7 +15,7 @@ Cosmic Vibes Sonifyr is a browser-based sound generator that creates cosmic and 
 - 🎛️ **Customizable Controls**: 
   - Frequency adjustment (20-2000 Hz)
   - Modulation rate and depth
-  - Reverb and volume controls
+  - Volume control
 - 📱 **Responsive Design**: Works on desktop and mobile devices
 - 🆓 **Completely Free**: No installation or registration required
 
