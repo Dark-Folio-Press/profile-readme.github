@@ -26,11 +26,15 @@ Calculated solely for you based on your cosmic blueprint.
 Your birth chart. Your transits. Your story.
 
 ### What if you could hear your horoscope? ###
+With my Spotify Developer Account I set out to answer that question and came up with [Sonifyr - Free](https://sonifyr.darkfoliopress.com/) 
+**Sonifyr transforms your unique birth chart into playlists that you can feel**
+Calculations are by my OpenAi astro assistant: armed with a magnetic persona, and a very basic astrology program built with python, kerykeon and api's.
+It harmonizes the mathematical and orbital ratios of the transiting planets to musical ones, resulting in 7 daily songs based on your unique date, time and location of birth. 
 
-🎶 **Sonifyr** [Cosmic Playlist Generator](https://sonifyr.darkfoliopress.com/) - Free
-Where the cosmos becomes a playlist.
-###To sonify (verb)###: To translate data, structures, or systems into non-speech sound, revealing patterns and relationships through listening rather than sight.
-Sonifyr transforms your unique birth chart into personalized weekly playlists that you can actually feel.
+**Note** Ideally I would have access to the entire length of the song for a proper sonifycation session. 
+Through Spotify I have a small window worth mere seconds to protect musicians and I think more to the point, bandwidth.
+I'm down for working on a full sonifycation suite, using non commercial music in the future.
+In the meantime this has been an exceptionally fun project to work on. Plus, I had my mind blown over the relationship between math, music, time and geometry.
 
 📜 The Dark Archive — The Archive is opening soon.
 For those who seek deeper scrolls.
@@ -39,8 +43,13 @@ For those who seek deeper scrolls.
 - 🚀 **More in Development**: Stay tuned as we push new projects and experiments to this space
 
 ## Philosophy
-
 Our work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites  they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
+
+## On AI Agents - Personal POV
+I've tried Famous and Replit for agent assistance, and stayed with Replit. 
+I wrote much of the original python but required a lot of help with the web dev.
+I designed the assistant's persona in openai by crafting a particular voice through a few simple, but powerful prompts.
+Replit has been continuously improving, has taught me a lot personaly, and helped me get over the finish line.
 
 ## Get Involved
 
