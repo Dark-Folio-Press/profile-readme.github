@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to Dark Folio Press — a small independent publisher exploring the intersection of **public domain works**, **original fiction**, and **digital innovation**.
+Welcome to Dark Folio Press: a small, independent publisher exploring the intersection of **public domain works**, **original fiction**, and **digital innovation**.
 
 ### What We Publish
 
@@ -22,7 +22,7 @@ We're on a path of continuous learning as a **self-taught, AI-assisted developer
 
 ## Philosophy
 
-Our work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites — they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
+Our work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites  they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
 
 ## Get Involved
 
