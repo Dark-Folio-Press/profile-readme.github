@@ -13,7 +13,7 @@ Welcome to Dark Folio Press: a small, independent publisher exploring the inters
 
 ## The Development Journey
 
-We're on a path of continuous learning as a **self-taught, AI-assisted developer**. Our codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
+I'm on a path of continuous learning as a **self-taught, AI-assisted developer**. My codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
 
 
 ### Current Projects ###
@@ -50,7 +50,7 @@ For those who seek deeper scrolls.
 🚀 **More in Development**: Stay tuned as we push new projects and experiments to this space
 
 ## Philosophy
-Our work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites  they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
+My work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites  they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
 
 ## On AI Agents - Personal POV
 I've tried Famous and Replit for agent assistance, and stayed with Replit. 
