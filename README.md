@@ -1,4 +1,5 @@
 # 🌙 Dark Folio Lab
+Bringing STories to Light ✨
 
 ## About
 
@@ -49,8 +50,12 @@ For those who seek deeper scrolls.
 
 🚀 **More in Development**: Stay tuned as we push new projects and experiments to this space
 
+## Meet the Developer
+My name is Sareenah and I'm a trained data analyst, lifelong tarot reader, student of astrology and folk lore enthusiast.
+Dark Folio Press is an expression of my personal journey as a curious, data informed artist, with an obsession for the enduring power of story telling.
+
 ## Philosophy
-My work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposites  they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
+My work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposing figures, they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
 
 ## On AI Agents - Personal POV
 I've tried Famous and Replit for agent assistance, and stayed with Replit. 
