@@ -57,6 +57,8 @@ I've tried Famous and Replit for agent assistance, and stayed with Replit.
 I wrote much of the original python but required a lot of help with the web dev.
 I designed the assistant's persona in openai by crafting a particular voice through a few simple, but powerful prompts.
 Replit has been continuously improving, has taught me a lot personaly, and helped me get over the finish line.
+I've used Co-Pilot to support me in keeping my hierarchical structure clean and structured and managing my pull requests.
+As I explore these features more, I'll add my notes here
 
 ## Get Involved
 Interested in our work? Watch this space as we continue to publish, code, and explore the boundaries between literature and software.
