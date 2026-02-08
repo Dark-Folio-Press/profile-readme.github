@@ -10,7 +10,7 @@ Welcome to the Codex of Dark Folio Press: a small, independent publisher explori
 - 💾 **[Open Source Codex](https://github.com/orgs/Dark-Folio-Press/repositories?q=visibility%3Apublic+archived%3Afalse)**: Check Dark Folio's Repo for ongoing updates and contributions
 - 📚 **Public Domain Works**: Carefully curated classics and forgotten gems from the literary past
 - ✍️ **Original Fiction**: New stories inspired by the data narratives and symbolic systems we love
-- ⭐ **[Daily Horoscopes](https://horoscopes.darkfoliopress.com) **: Created by our custom app, blending celestial wisdom with code
+- ⭐ **Daily Horoscopes**: [Hot off the daily press](https://horoscopes.darkfoliopress.com) Created by our custom app, blending celestial wisdom with code
 
 ## The Development Journey
 
